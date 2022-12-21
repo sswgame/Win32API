@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{3cd09ca9-d593-4eab-8496-ddfab1421c1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{61febf5a-a4e0-4756-af5d-93c593acb7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Window">
+      <UniqueIdentifier>{c731e60a-4994-40e4-983e-705707591c6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\01. Headers">
+      <UniqueIdentifier>{2acb89c9-5ad9-477a-8ca5-5a5ae3e6ea0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\01. Headers\Timer">
+      <UniqueIdentifier>{d66189ba-17c3-4e85-8265-7093cdc1cfb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\02. Core">
+      <UniqueIdentifier>{7139f786-acee-44ba-96da-45111e35481c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager">
+      <UniqueIdentifier>{7adb32f5-e80e-4800-aa07-c2ce1e34c1dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Event">
+      <UniqueIdentifier>{ca35282f-65d7-4332-b66d-cf3f42751be1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Key">
+      <UniqueIdentifier>{af44a0b4-c074-4348-8f92-97fa70469def}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Path">
+      <UniqueIdentifier>{3d61acfe-430a-479a-875a-51de41edb68e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Stage">
+      <UniqueIdentifier>{dd1c3211-c42f-49b1-8a2d-67f03c7a1eeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Camera">
+      <UniqueIdentifier>{6b5ce0c9-d0fc-4280-a0e9-655ce9b95844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Resource">
+      <UniqueIdentifier>{0a75646d-6f05-44f9-a4cc-94170e1f6833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Resource">
+      <UniqueIdentifier>{3a9498cd-15ca-4643-b51f-8e7f764a0ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Resource\Resource">
+      <UniqueIdentifier>{8c031314-e210-4400-9465-248646c09911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Resource\Texture">
+      <UniqueIdentifier>{d724dc91-74a0-402d-be63-4fdf8eeb0a5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\06. Resource\Sound">
+      <UniqueIdentifier>{bf6532de-524c-40a5-9eef-451f33410cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Stage">
+      <UniqueIdentifier>{3757ef85-c275-46a7-bb62-d750801d076e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject">
+      <UniqueIdentifier>{5ada2dd5-a225-4613-9a2d-656cb36c9574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component">
+      <UniqueIdentifier>{46f4ed4a-881e-4885-bca9-b96f81298229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Collider">
+      <UniqueIdentifier>{aacac790-1913-45cd-be8a-0bea662de5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Base">
+      <UniqueIdentifier>{9faf744f-6bba-488e-81e1-fef9087246a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Collider">
+      <UniqueIdentifier>{fedffa8b-9cf8-4241-981b-0e5149319ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Animator">
+      <UniqueIdentifier>{88f96eae-76d9-441b-ba88-0f36a0af85cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Base">
+      <UniqueIdentifier>{61edf9cf-0149-4d19-98bc-d8f40e113ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Stage\Base">
+      <UniqueIdentifier>{f9b8c8fa-56c9-4415-8484-f33c883cd177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Event\EventType">
+      <UniqueIdentifier>{e0277d84-404d-4607-bf19-0399d032635b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Sprite">
+      <UniqueIdentifier>{98672c70-49eb-4dce-b9e9-deef9416e93b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Animator\Animation">
+      <UniqueIdentifier>{5ae4344f-3fa1-485c-bc9d-2925b54b0d1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Transform">
+      <UniqueIdentifier>{30368259-3a21-4961-849f-f2e232cef357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Item">
+      <UniqueIdentifier>{6106d240-cd66-4102-b699-91d137323894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\FSM">
+      <UniqueIdentifier>{bd17bffc-25da-4f91-aa3e-66d838cb47dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\FSM\State">
+      <UniqueIdentifier>{e405b6a2-7609-40b3-8da3-270aae453592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\FSM\State\Base">
+      <UniqueIdentifier>{013dd02d-11ff-435d-8a48-6a08d4a95773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\FSM\Base">
+      <UniqueIdentifier>{1704d43f-fe28-4047-a5d3-426d381ca9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Teleport">
+      <UniqueIdentifier>{4b7358e8-151d-4a0d-b3c1-21c09b5cc308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Tile">
+      <UniqueIdentifier>{41a0fb60-0f5f-4107-bb71-3abbaf6cb1da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Tile">
+      <UniqueIdentifier>{2ddbc2d3-6126-40fe-a75a-8d632b8cbe36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\05. Component\Movement">
+      <UniqueIdentifier>{27275e87-7300-46e4-9d61-69c82642b47d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Animal">
+      <UniqueIdentifier>{ca0b7d8d-8d7e-4722-8bd4-df90340c4ced}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Obstacle">
+      <UniqueIdentifier>{647b04d0-b64d-47c2-b74c-35d5c5f85fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Player">
+      <UniqueIdentifier>{f533d84a-d6e5-4fe2-8b70-c3ddf1911bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Plot">
+      <UniqueIdentifier>{8ff4d468-8c87-4c8a-a316-21817b515b41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\RayCast">
+      <UniqueIdentifier>{ffec5f7c-4072-4cf5-9b4f-a38b5998e9cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\Sound">
+      <UniqueIdentifier>{94ba1031-de6f-43ce-9f21-4fcf7f629242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\03. Manager\UI">
+      <UniqueIdentifier>{004dbf42-31fe-4fca-8756-6f4102c3ca1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\UI">
+      <UniqueIdentifier>{02bfe78a-e679-4bcb-b91e-15a3426e4317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\NPC">
+      <UniqueIdentifier>{d8117682-c84d-48aa-b3b1-7387e4420842}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Player\State">
+      <UniqueIdentifier>{3a537a8c-2c03-4574-832f-619ac44a112a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Animal\State">
+      <UniqueIdentifier>{758af5d6-8af4-43fa-8fb8-a49e345f58b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\07. Stage\GameStages">
+      <UniqueIdentifier>{bb90f81f-75c9-4a62-af2c-214571f9a12f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Player\State\Carry">
+      <UniqueIdentifier>{e7a7e3fd-bb3a-4f35-b740-5d20357ce28c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Player\State\Basic">
+      <UniqueIdentifier>{43d09629-d029-45bd-b95c-b86ba65a5fa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\04. GameObject\Invoker">
+      <UniqueIdentifier>{6b5ea6da-bbdf-43fe-9b35-646bf5fb6016}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Window.h">
+      <Filter>Main\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>Game\01. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>Game\01. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CCore.h">
+      <Filter>Game\02. Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Game\01. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Func.h">
+      <Filter>Game\01. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimer.h">
+      <Filter>Game\01. Headers\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="CEventManager.h">
+      <Filter>Game\03. Manager\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyManager.h">
+      <Filter>Game\03. Manager\Key</Filter>
+    </ClInclude>
+    <ClInclude Include="CPathManager.h">
+      <Filter>Game\03. Manager\Path</Filter>
+    </ClInclude>
+    <ClInclude Include="CResourceManager.h">
+      <Filter>Game\03. Manager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="CStageManager.h">
+      <Filter>Game\03. Manager\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>Game\03. Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CResource.h">
+      <Filter>Game\06. Resource\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>Game\06. Resource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="CColliderManager.h">
+      <Filter>Game\03. Manager\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponent.h">
+      <Filter>Game\05. Component\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameObject.h">
+      <Filter>Game\04. GameObject\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollider.h">
+      <Filter>Game\05. Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage.h">
+      <Filter>Game\07. Stage\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="IDelegate.h">
+      <Filter>Game\03. Manager\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="IEvent.h">
+      <Filter>Game\03. Manager\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Events.h">
+      <Filter>Game\03. Manager\Event\EventType</Filter>
+    </ClInclude>
+    <ClInclude Include="CSpriteComponent.h">
+      <Filter>Game\05. Component\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimal.h">
+      <Filter>Game\04. GameObject\Animal</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimator.h">
+      <Filter>Game\05. Component\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimation.h">
+      <Filter>Game\05. Component\Animator\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="CTransform.h">
+      <Filter>Game\05. Component\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="CFSM.h">
+      <Filter>Game\05. Component\FSM\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CState.h">
+      <Filter>Game\05. Component\FSM\State\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>Game\04. GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="CTeleport.h">
+      <Filter>Game\04. GameObject\Teleport</Filter>
+    </ClInclude>
+    <ClInclude Include="CTile.h">
+      <Filter>Game\04. GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="CTileManager.h">
+      <Filter>Game\03. Manager\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Name.h">
+      <Filter>Game\01. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CMovement.h">
+      <Filter>Game\05. Component\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Chicken.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Cow.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Farm.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Garage.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_House.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Mountain.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Shop.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Street.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerConfirm.h">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerIdle.h">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CObstacle.h">
+      <Filter>Game\04. GameObject\Obstacle</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlot.h">
+      <Filter>Game\04. GameObject\Plot</Filter>
+    </ClInclude>
+    <ClInclude Include="CRayCast.h">
+      <Filter>Game\04. GameObject\RayCast</Filter>
+    </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>Game\06. Resource\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundManager.h">
+      <Filter>Game\03. Manager\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroStage.h">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIManager.h">
+      <Filter>Game\03. Manager\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerUIState.h">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CowState.h">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClInclude>
+    <ClInclude Include="ChickenState.h">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CUI.h">
+      <Filter>Game\04. GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CNpc.h">
+      <Filter>Game\04. GameObject\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="CowHappyState.h">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CowWalkState.h">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CInvoker.h">
+      <Filter>Game\04. GameObject\Invoker</Filter>
+    </ClInclude>
+    <ClInclude Include="CCarryIdleState.h">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClInclude>
+    <ClInclude Include="CCarryJump.h">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClInclude>
+    <ClInclude Include="CCarryRunState.h">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClInclude>
+    <ClInclude Include="CCarryThrowState.h">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClInclude>
+    <ClInclude Include="CCarryWalkState.h">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerEat.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerJump.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerSelect.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerUse.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerWhistle.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerWalk.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerRun.h">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>Game\04. GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Main\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="CCore.cpp">
+      <Filter>Game\02. Core</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimer.cpp">
+      <Filter>Game\01. Headers\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="CEventManager.cpp">
+      <Filter>Game\03. Manager\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyManager.cpp">
+      <Filter>Game\03. Manager\Key</Filter>
+    </ClCompile>
+    <ClCompile Include="CPathManager.cpp">
+      <Filter>Game\03. Manager\Path</Filter>
+    </ClCompile>
+    <ClCompile Include="CResourceManager.cpp">
+      <Filter>Game\03. Manager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="CStageManager.cpp">
+      <Filter>Game\03. Manager\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>Game\03. Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>Game\06. Resource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="CColliderManager.cpp">
+      <Filter>Game\03. Manager\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameObject.cpp">
+      <Filter>Game\04. GameObject\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollider.cpp">
+      <Filter>Game\05. Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage.cpp">
+      <Filter>Game\07. Stage\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Game\04. GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CSpriteComponent.cpp">
+      <Filter>Game\05. Component\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimal.cpp">
+      <Filter>Game\04. GameObject\Animal</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Game\01. Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimator.cpp">
+      <Filter>Game\05. Component\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimation.cpp">
+      <Filter>Game\05. Component\Animator\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="CTransform.cpp">
+      <Filter>Game\05. Component\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="CFSM.cpp">
+      <Filter>Game\05. Component\FSM\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="CState.cpp">
+      <Filter>Game\05. Component\FSM\State\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>Game\04. GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="CTeleport.cpp">
+      <Filter>Game\04. GameObject\Teleport</Filter>
+    </ClCompile>
+    <ClCompile Include="CTile.cpp">
+      <Filter>Game\04. GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="CTileManager.cpp">
+      <Filter>Game\03. Manager\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="CMovement.cpp">
+      <Filter>Game\05. Component\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Chicken.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Cow.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Farm.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Garage.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_House.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Mountain.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Shop.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Street.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerConfirm.cpp">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerIdle.cpp">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CObstacle.cpp">
+      <Filter>Game\04. GameObject\Obstacle</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlot.cpp">
+      <Filter>Game\04. GameObject\Plot</Filter>
+    </ClCompile>
+    <ClCompile Include="CRayCast.cpp">
+      <Filter>Game\04. GameObject\RayCast</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>Game\06. Resource\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundManager.cpp">
+      <Filter>Game\03. Manager\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroStage.cpp">
+      <Filter>Game\07. Stage\GameStages</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIManager.cpp">
+      <Filter>Game\03. Manager\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerUIState.cpp">
+      <Filter>Game\04. GameObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CowState.cpp">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CUI.cpp">
+      <Filter>Game\04. GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CNpc.cpp">
+      <Filter>Game\04. GameObject\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="ChickenState.cpp">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CowHappyState.cpp">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CowWalkState.cpp">
+      <Filter>Game\04. GameObject\Animal\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CInvoker.cpp">
+      <Filter>Game\04. GameObject\Invoker</Filter>
+    </ClCompile>
+    <ClCompile Include="CCarryIdleState.cpp">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClCompile>
+    <ClCompile Include="CCarryJump.cpp">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClCompile>
+    <ClCompile Include="CCarryRunState.cpp">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClCompile>
+    <ClCompile Include="CCarryThrowState.cpp">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClCompile>
+    <ClCompile Include="CCarryWalkState.cpp">
+      <Filter>Game\04. GameObject\Player\State\Carry</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerEat.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerJump.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerSelect.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerUse.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerWhistle.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerWalk.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerRun.cpp">
+      <Filter>Game\04. GameObject\Player\State\Basic</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

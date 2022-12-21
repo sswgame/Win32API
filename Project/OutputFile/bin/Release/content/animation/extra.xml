@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="extra" width="475" height="245" R="255" G="0" B="255" A="255">
+	<sprite n="big_milk" x="22" y="22" w="38" h="41" centerX="19" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="small_milk" x="72" y="20" w="38" h="35" centerX="19" centerY="17" isFlipped="False" duration="0" />
+	<sprite n="feed" x="72" y="70" w="41" h="33" centerX="20" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="seed_turnip" x="77" y="120" w="33" h="33" centerX="16" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="seed_tomato" x="135" y="122" w="33" h="33" centerX="16" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="seed_grass" x="187" y="122" w="33" h="33" centerX="16" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="seed_potato" x="77" y="167" w="33" h="33" centerX="16" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="seed_corn" x="135" y="170" w="33" h="33" centerX="16" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="fruit" x="370" y="167" w="35" h="36" centerX="17" centerY="18" isFlipped="False" duration="0" />
+	<sprite n="food_0" x="295" y="167" w="40" h="28" centerX="20" centerY="14" isFlipped="False" duration="0" />
+	<sprite n="food_1" x="237" y="170" w="33" h="25" centerX="16" centerY="12" isFlipped="False" duration="0" />
+	<sprite n="food_2" x="182" y="167" w="36" h="28" centerX="18" centerY="14" isFlipped="False" duration="0" />
+	<sprite n="egg" x="305" y="127" w="23" h="31" centerX="11" centerY="15" isFlipped="False" duration="0" />
+	<sprite n="egg_crashed" x="240" y="125" w="40" h="30" centerX="20" centerY="15" isFlipped="False" duration="0" />
+	<sprite n="wood_carrying" x="23" y="77" w="40" h="41" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="wood" x="22" y="192" w="41" h="43" centerX="20" centerY="21" isFlipped="False" duration="0" />
+	<sprite n="wood_crashed" x="22" y="137" w="41" h="41" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="grass_crashed" x="368" y="127" w="39" h="31" centerX="19" centerY="15" isFlipped="False" duration="0" />
+	<sprite n="grass_0" x="420" y="20" w="40" h="40" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="grass_1" x="420" y="70" w="40" h="40" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="grass_2" x="367" y="70" w="41" h="40" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="grass_3" x="367" y="20" w="41" h="40" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="obstacle_grass" x="223" y="72" w="39" h="38" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="obstacle_small_rock" x="223" y="22" w="42" h="33" centerX="21" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="obstacle_big_rock" x="275" y="20" w="80" h="80" centerX="40" centerY="40" isFlipped="False" duration="0" />
+	<sprite n="obstacle_wood" x="122" y="20" w="81" h="80" centerX="40" centerY="40" isFlipped="False" duration="0" />
+</TextureAtlas>

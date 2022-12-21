@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tools" width="263" height="543" R="255" G="0" B="255" A="255">
+	<sprite n="normal_water" x="14" y="24" w="40" h="32" centerX="20" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="normal_sickle" x="56" y="19" w="38" h="37" centerX="19" centerY="18" isFlipped="False" duration="0" />
+	<sprite n="normal_hoe" x="95" y="14" w="36" h="40" centerX="18" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="normal_hammer" x="134" y="19" w="40" h="35" centerX="20" centerY="17" isFlipped="False" duration="0" />
+	<sprite n="normal_axe" x="177" y="17" w="34" h="39" centerX="17" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="special_water" x="15" y="64" w="40" h="33" centerX="20" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="special_sickle" x="56" y="59" w="40" h="37" centerX="20" centerY="18" isFlipped="False" duration="0" />
+	<sprite n="special_hoe" x="97" y="56" w="34" h="40" centerX="17" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="special_axe" x="135" y="56" w="38" h="40" centerX="19" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="special_hammer" x="175" y="55" w="41" h="41" centerX="20" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="medicine" x="17" y="139" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="special_medicine" x="57" y="139" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="bell" x="98" y="137" w="33" h="41" centerX="16" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="milking_tool" x="54" y="178" w="42" h="40" centerX="21" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="brush" x="97" y="184" w="34" h="35" centerX="17" centerY="17" isFlipped="False" duration="0" />
+	<sprite n="cow_food" x="14" y="219" w="39" h="40" centerX="19" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="chicken_food" x="55" y="219" w="38" h="40" centerX="19" centerY="20" isFlipped="False" duration="0" />
+	<sprite n="paint" x="19" y="179" w="32" h="39" centerX="16" centerY="19" isFlipped="False" duration="0" />
+</TextureAtlas>

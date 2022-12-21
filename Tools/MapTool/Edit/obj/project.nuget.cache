@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnYLcCoUeLkywfQ68V9n4WYHgcakqBSTqHr3eCVkF+vq8zHuOrti3t/geCpNVzEHIzbK+OyAXgtkwl5oa8ZHVA==",
+  "success": true,
+  "projectFilePath": "D:\\Portfolio\\Win32API\\Tools\\MapTool\\Edit\\Edit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssw\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ssw\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SNES - Harvest Moon - Shipping Workers.png" width="500" height="732" R="120" G="195" B="128" A="255">
+	<sprite n="idle_front_0" x="92" y="24" w="60" h="92" centerX="30" centerY="92" isFlipped="False" duration="0.3" />
+	<sprite n="idle_back_0" x="96" y="120" w="52" h="92" centerX="26" centerY="92" isFlipped="False" duration="0.3" />
+	<sprite n="idle_left_0" x="96" y="216" w="52" h="92" centerX="26" centerY="92" isFlipped="False" duration="0.3" />
+	<sprite n="idle_right_0" x="92" y="312" w="52" h="92" centerX="26" centerY="92" isFlipped="False" duration="0.3" />
+</TextureAtlas>

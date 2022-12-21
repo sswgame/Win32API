@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.1" orientation="orthogonal" renderorder="right-down" width="12" height="13" tilewidth="40" tileheight="40" infinite="0" nextlayerid="4" nextobjectid="24">
+ <tileset firstgid="1" name="newTileSet" tilewidth="40" tileheight="40" tilecount="1295" columns="35">
+  <image source="Resources/newTileSet.png" width="1400" height="1480"/>
+  <tile id="1230" type="Item"/>
+ </tileset>
+ <tileset firstgid="1296" name="tools" tilewidth="40" tileheight="40" tilecount="1" columns="1">
+  <image source="tools.bmp" width="40" height="40"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="12" height="13">
+  <data>
+   <tile gid="454"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="454"/>
+   <tile gid="457"/>
+   <tile gid="458"/>
+   <tile gid="459"/>
+   <tile gid="460"/>
+   <tile gid="461"/>
+   <tile gid="462"/>
+   <tile gid="463"/>
+   <tile gid="464"/>
+   <tile gid="460"/>
+   <tile gid="459"/>
+   <tile gid="465"/>
+   <tile gid="466"/>
+   <tile gid="466"/>
+   <tile gid="467"/>
+   <tile gid="468"/>
+   <tile gid="469"/>
+   <tile gid="470"/>
+   <tile gid="471"/>
+   <tile gid="472"/>
+   <tile gid="473"/>
+   <tile gid="474"/>
+   <tile gid="475"/>
+   <tile gid="476"/>
+   <tile gid="457"/>
+   <tile gid="457"/>
+   <tile gid="477"/>
+   <tile gid="478"/>
+   <tile gid="479"/>
+   <tile gid="480"/>
+   <tile gid="481"/>
+   <tile gid="482"/>
+   <tile gid="483"/>
+   <tile gid="484"/>
+   <tile gid="485"/>
+   <tile gid="486"/>
+   <tile gid="466"/>
+   <tile gid="466"/>
+   <tile gid="487"/>
+   <tile gid="488"/>
+   <tile gid="489"/>
+   <tile gid="490"/>
+   <tile gid="491"/>
+   <tile gid="492"/>
+   <tile gid="481"/>
+   <tile gid="492"/>
+   <tile gid="481"/>
+   <tile gid="493"/>
+   <tile gid="457"/>
+   <tile gid="457"/>
+   <tile gid="494"/>
+   <tile gid="495"/>
+   <tile gid="496"/>
+   <tile gid="497"/>
+   <tile gid="481"/>
+   <tile gid="482"/>
+   <tile gid="494"/>
+   <tile gid="495"/>
+   <tile gid="496"/>
+   <tile gid="498"/>
+   <tile gid="466"/>
+   <tile gid="466"/>
+   <tile gid="499"/>
+   <tile gid="500"/>
+   <tile gid="501"/>
+   <tile gid="502"/>
+   <tile gid="491"/>
+   <tile gid="503"/>
+   <tile gid="499"/>
+   <tile gid="500"/>
+   <tile gid="501"/>
+   <tile gid="504"/>
+   <tile gid="457"/>
+   <tile gid="457"/>
+   <tile gid="481"/>
+   <tile gid="492"/>
+   <tile gid="481"/>
+   <tile gid="505"/>
+   <tile gid="491"/>
+   <tile gid="492"/>
+   <tile gid="491"/>
+   <tile gid="505"/>
+   <tile gid="481"/>
+   <tile gid="493"/>
+   <tile gid="466"/>
+   <tile gid="466"/>
+   <tile gid="494"/>
+   <tile gid="495"/>
+   <tile gid="496"/>
+   <tile gid="497"/>
+   <tile gid="491"/>
+   <tile gid="482"/>
+   <tile gid="494"/>
+   <tile gid="506"/>
+   <tile gid="507"/>
+   <tile gid="498"/>
+   <tile gid="457"/>
+   <tile gid="457"/>
+   <tile gid="499"/>
+   <tile gid="500"/>
+   <tile gid="501"/>
+   <tile gid="502"/>
+   <tile gid="481"/>
+   <tile gid="503"/>
+   <tile gid="499"/>
+   <tile gid="500"/>
+   <tile gid="501"/>
+   <tile gid="504"/>
+   <tile gid="466"/>
+   <tile gid="466"/>
+   <tile gid="481"/>
+   <tile gid="505"/>
+   <tile gid="491"/>
+   <tile gid="492"/>
+   <tile gid="481"/>
+   <tile gid="505"/>
+   <tile gid="491"/>
+   <tile gid="492"/>
+   <tile gid="481"/>
+   <tile gid="493"/>
+   <tile gid="457"/>
+   <tile gid="457"/>
+   <tile gid="496"/>
+   <tile gid="496"/>
+   <tile gid="497"/>
+   <tile gid="505"/>
+   <tile gid="508"/>
+   <tile gid="509"/>
+   <tile gid="481"/>
+   <tile gid="494"/>
+   <tile gid="496"/>
+   <tile gid="498"/>
+   <tile gid="466"/>
+   <tile gid="454"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="510"/>
+   <tile gid="511"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="456"/>
+   <tile gid="455"/>
+   <tile gid="454"/>
+  </data>
+ </layer>
+ <layer id="3" name="CanMove" width="12" height="13">
+  <data>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1230"/>
+   <tile gid="1230"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+ <objectgroup id="2" name="Object Layer">
+  <object id="1" name="FARM" type="TELEPORT" x="200" y="480" width="80" height="20">
+   <properties>
+    <property name="x" type="float" value="1060"/>
+    <property name="y" type="float" value="1220"/>
+   </properties>
+  </object>
+  <object id="0" name="normal_water" type="TOOL" gid="1296" x="160" y="360" width="40" height="40"/>
+  <object id="1" name="normal_sickle" type="TOOL" gid="1296" x="280" y="360" width="40" height="40"/>
+  <object id="2" name="normal_hoe" type="TOOL" gid="1296" x="320" y="360" width="40" height="40"/>
+  <object id="3" name="normal_hammer" type="TOOL" gid="1296" x="360" y="360" width="40" height="40"/>
+  <object id="4" name="normal_axe" type="TOOL" gid="1296" x="400" y="360" width="40" height="40"/>
+  <object id="10" name="medicine" type="TOOL" gid="1296" x="80" y="240" width="40" height="40"/>
+  <object id="11" name="special_medicine" type="TOOL" gid="1296" x="40" y="240" width="40" height="40"/>
+  <object id="12" name="bell" type="TOOL" gid="1296" x="120" y="240" width="40" height="40"/>
+  <object id="13" name="milking_tool" type="TOOL" gid="1296" x="80" y="360" width="40" height="40"/>
+  <object id="14" name="brush" type="TOOL" gid="1296" x="120" y="360" width="40" height="40"/>
+  <object id="17" name="seed_turnip" type="TOOL" gid="1296" x="160" y="240" width="40" height="40"/>
+  <object id="18" name="seed_potato" type="TOOL" gid="1296" x="320" y="240" width="40" height="40"/>
+  <object id="19" name="seed_tomato" type="TOOL" gid="1296" x="360" y="240" width="40" height="40"/>
+  <object id="20" name="seed_corn" type="TOOL" gid="1296" x="280" y="240" width="40" height="40"/>
+  <object id="21" name="seed_grass" type="TOOL" gid="1296" x="400" y="240" width="40" height="40"/>
+  <object id="22" name="paint" type="TOOL" gid="1296" x="40" y="360" width="40" height="40"/>
+ </objectgroup>
+</map>

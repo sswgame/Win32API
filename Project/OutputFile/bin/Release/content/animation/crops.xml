@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crops" width="588" height="924" R="255" G="0" B="255" A="255">
+	<sprite n="empty_plot" x="76" y="98" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="empty_watered_plot" x="120" y="98" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="seeded_plot" x="237" y="98" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="seeded_watered_plot" x="280" y="98" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="secreted_plot" x="410" y="98" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="secreted_flowered" x="453" y="98" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="turnip_0" x="31" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="turnip_1" x="31" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="turnip_2" x="36" y="412" w="32" h="37" centerX="16" centerY="18" isFlipped="False" duration="0" />
+	<sprite n="turnip_watered_0" x="74" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="turnip_watered_1" x="74" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="turnip_3" x="74" y="415" w="39" h="34" centerX="19" centerY="17" isFlipped="False" duration="0" />
+	<sprite n="potato_0" x="180" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="potato_1" x="180" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="potato_2" x="184" y="415" w="32" h="29" centerX="16" centerY="14" isFlipped="False" duration="0" />
+	<sprite n="potato_3" x="225" y="412" w="37" h="37" centerX="18" centerY="18" isFlipped="False" duration="0" />
+	<sprite n="potato_watered_0" x="223" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="potato_watered_1" x="223" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_0" x="333" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_1" x="333" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_2" x="333" y="410" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_3" x="333" y="453" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_4" x="336" y="499" w="32" h="34" centerX="16" centerY="17" isFlipped="False" duration="0" />
+	<sprite n="tomato_5" x="376" y="501" w="40" h="32" centerX="20" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="tomato_watered_0" x="376" y="324" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_watered_1" x="376" y="367" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_watered_2" x="376" y="410" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="tomato_watered_3" x="376" y="453" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_0" x="484" y="324" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_1" x="484" y="367" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_2" x="484" y="410" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_4" x="487" y="501" w="34" h="30" centerX="17" centerY="15" isFlipped="False" duration="0" />
+	<sprite n="corn_3" x="484" y="453" w="40" h="39" centerX="20" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_5" x="528" y="499" w="39" h="32" centerX="19" centerY="16" isFlipped="False" duration="0" />
+	<sprite n="corn_watered_0" x="528" y="324" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_watered_1" x="528" y="367" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_watered_2" x="528" y="410" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+	<sprite n="corn_watered_3" x="528" y="453" w="39" h="39" centerX="19" centerY="19" isFlipped="False" duration="0" />
+</TextureAtlas>

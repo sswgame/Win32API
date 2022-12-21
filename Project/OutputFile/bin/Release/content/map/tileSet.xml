@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tileset version="1.5" name="newTileSet" tiledversion="1.7.2" tilewidth="40" tileheight="40" tilecount="1229" columns="35">
+    <image source="newTileSet.png" width="560" height="592" />
+</tileset>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chicken" width="780" height="115" R="255" G="0" B="255" A="255">
+	<sprite n="walk_front_0" x="0" y="0" w="40" h="37" centerX="20" centerY="37" isFlipped="False" duration="0.2" />
+	<sprite n="walk_front_0" x="0" y="75" w="40" h="40" centerX="20" centerY="40" isFlipped="False" duration="0.2" />
+	<sprite n="walk_left_0" x="75" y="0" w="40" h="37" centerX="20" centerY="37" isFlipped="False" duration="0.2" />
+	<sprite n="walk_left_0" x="75" y="75" w="40" h="40" centerX="20" centerY="40" isFlipped="False" duration="0.2" />
+	<sprite n="walk_right_0" x="75" y="0" w="40" h="37" centerX="20" centerY="37" isFlipped="True" duration="0.2" />
+	<sprite n="walk_right_0" x="75" y="75" w="40" h="40" centerX="20" centerY="40" isFlipped="True" duration="0.2" />
+	<sprite n="walk_back_0" x="152" y="0" w="35" h="37" centerX="17" centerY="37" isFlipped="False" duration="0.2" />
+	<sprite n="walk_back_0" x="150" y="75" w="40" h="40" centerX="20" centerY="40" isFlipped="False" duration="0.2" />
+	<sprite n="idle_left_0" x="225" y="0" w="40" h="37" centerX="20" centerY="37" isFlipped="False" duration="0.4" />
+	<sprite n="idle_left_0" x="225" y="77" w="40" h="35" centerX="20" centerY="35" isFlipped="False" duration="0.4" />
+	<sprite n="idle_right_0" x="225" y="0" w="40" h="37" centerX="20" centerY="37" isFlipped="True" duration="0.4" />
+	<sprite n="idle_right_0" x="225" y="77" w="40" h="35" centerX="20" centerY="35" isFlipped="True" duration="0.4" />
+	<sprite n="chick_walk_front_0" x="610" y="7" w="20" h="25" centerX="10" centerY="25" isFlipped="False" duration="0.2" />
+	<sprite n="chick_walk_front_0" x="610" y="82" w="20" h="22" centerX="10" centerY="22" isFlipped="False" duration="0.2" />
+	<sprite n="chick_walk_left_0" x="682" y="5" w="22" h="27" centerX="10" centerY="27" isFlipped="False" duration="0.2" />
+	<sprite n="chick_walk_left_0" x="682" y="82" w="22" h="22" centerX="10" centerY="22" isFlipped="False" duration="0.2" />
+	<sprite n="chick_walk_right_0" x="682" y="5" w="22" h="27" centerX="12" centerY="27" isFlipped="True" duration="0.2" />
+	<sprite n="chick_walk_right_0" x="682" y="82" w="22" h="22" centerX="12" centerY="22" isFlipped="True" duration="0.2" />
+	<sprite n="chick_walk_back_0" x="760" y="5" w="20" h="27" centerX="10" centerY="27" isFlipped="False" duration="0.2" />
+	<sprite n="chick_walk_back_0" x="760" y="82" w="20" h="22" centerX="10" centerY="22" isFlipped="False" duration="0.2" />
+</TextureAtlas>
